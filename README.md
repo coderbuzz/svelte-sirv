@@ -1,3 +1,3 @@
-# Qumatic v3.0
+# Svelte - Sirv
 
 Using Svelte dan ClusterWS
