@@ -1,0 +1,10 @@
+{
+    "apps-all": {
+        "default": "admin",
+        "mount": ["admin", "kiosk", "agent", "mobile", "dashboard", "booking"]
+    },
+    "apps": {
+        "default": "admin",
+        "mount": ["admin", "cms"]
+    }
+}
