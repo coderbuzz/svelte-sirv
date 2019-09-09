@@ -1,3 +1,3 @@
 # Svelte - Sirv
 
-Using Svelte dan ClusterWS
+Using Svelte and ClusterWS
